@@ -1,0 +1,6 @@
+[submodule "SPRO2Hardware"]
+	path = SPRO2Hardware
+	url = https://github.com/Xeretis/SPRO2Hardware.git
+[submodule "SPRO2Software"]
+	path = SPRO2Software
+	url = https://github.com/Xeretis/SPRO2Software.git
